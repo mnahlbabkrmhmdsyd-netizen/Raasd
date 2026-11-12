@@ -1,0 +1,6 @@
+{
+  "name": "RASAD | رَصَد",
+  "description": "منصة ذكية لرصد التهديدات الجوية وحماية مؤسسات الكهرباء عبر تحليل أنماط النشاط اللاسلكي وإدارة الاستجابة للطوارئ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
